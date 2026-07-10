@@ -12,7 +12,6 @@ Thumbs.db
 Desktop.ini
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -55,3 +54,4 @@ BOOTSTRAP.md
 
 # 生成的报告目录（避免未脱敏内容泄漏）
 reports/
+config.bat
